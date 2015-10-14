@@ -1,0 +1,17 @@
+Unit Testing 
+Introduction 
+Software testing is crucial to creating polished, production ready applications. Testing a product before it is released allows developers to assure the quality of their code. Software development teams will often design and utilize test cases that verify a code base is working as expected. Unit tests are individual, isolated tests that allow programmers to validate the behavior of code using specific parameters. However, unit tests are often done manually, requiring developers to verify test results themselves. With automated unit testing developers can validate their most recent code changes against test cases. 
+Unit testing Basics
+In order to start including unit tests in your projects we must first understand the fundamental aspects of unit tests. Unit tests are designed to test a specific portion of a code base. This can be a single method, a group of class methods or even interwoven class dependencies. Well designed unit tests allow for full automation, are readable, are maintainable for developers and are trustworthy. 
+Need to learn how to write unit tests? Here are some links:
+•	Unit Test Basics - https://msdn.microsoft.com/en-us/library/hh694602.aspx
+•	Create and run unit tests with Visual Studio - https://www.visualstudio.com/en-us/get-started/code/create-and-run-unit-tests-vs
+Unit testing Frameworks
+The unit testing process is not a construct all on its own. Unit testing is often incorporated in projects that follow a test-driven development (TDD) method of developing products, along with other methodologies. Therefore, several different unit testing frameworks have been developed in order to allow developers to test code. Frameworks such as NUnit and XUnit.net allow developers to run unit tests, compare tests and render test reports. NUnit and XUnit.net can both be found as Visual Studio extensions.
+Looking to start using a different unit testing framework? Here are some basic tutorials for NUnit and XUnit.NET
+•	Getting Started with xUnit.net - https://xunit.github.io/docs/getting-started.html
+•	Unit Testing Using NUnit - http://www.codeproject.com/Articles/178635/Unit-Testing-Using-NUnit
+Unit testing example
+I’ve published a small application that showcases unit tests for both Microsoft’s UnitTesting assembly and the NUnit framework. Follow the link below:
+
+https://github.com/garaydev/CarboIOProducts

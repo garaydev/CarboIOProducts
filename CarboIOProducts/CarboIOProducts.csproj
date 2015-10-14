@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Docs\Unit Testing - Angel Garay.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Docs\Unit Testing - Angel Garay.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
