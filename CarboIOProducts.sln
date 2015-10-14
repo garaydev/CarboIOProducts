@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarboIOVSUnitTests", "Carbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarboIONUnitTests", "CarboIONUnitTests\CarboIONUnitTests.csproj", "{3290CB5F-54CA-49F2-AF94-C6AE2A710014}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{7FDCB04F-8205-48CE-9987-766D23BA6F69}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\CerealDomain\Desktop\Unit Testing - Angel Garay.docx = C:\Users\CerealDomain\Desktop\Unit Testing - Angel Garay.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
