@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarboIOVSUnitTests", "Carbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarboIONUnitTests", "CarboIONUnitTests\CarboIONUnitTests.csproj", "{3290CB5F-54CA-49F2-AF94-C6AE2A710014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarboIOXUnitNetTests", "CarboIOXUnitNetTests\CarboIOXUnitNetTests.csproj", "{038776BE-BBFE-4E29-A353-D511BB2917E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3290CB5F-54CA-49F2-AF94-C6AE2A710014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3290CB5F-54CA-49F2-AF94-C6AE2A710014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3290CB5F-54CA-49F2-AF94-C6AE2A710014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038776BE-BBFE-4E29-A353-D511BB2917E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038776BE-BBFE-4E29-A353-D511BB2917E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038776BE-BBFE-4E29-A353-D511BB2917E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038776BE-BBFE-4E29-A353-D511BB2917E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
